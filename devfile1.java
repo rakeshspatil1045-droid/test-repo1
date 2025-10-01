@@ -1,0 +1,5 @@
+Class login
+{   
+	username;
+	password;
+}
