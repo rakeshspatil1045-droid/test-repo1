@@ -1,0 +1,7 @@
+class goal
+{
+	goat;
+	all;
+}
+
+	

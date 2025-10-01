@@ -1,0 +1,6 @@
+class main 
+{
+	devd;
+	devf;
+}
+	
